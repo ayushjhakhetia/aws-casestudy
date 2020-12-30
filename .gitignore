@@ -1,3 +1,5 @@
 /.metadata/
 /aws-casestudy-analysis/aws/.project
+/aws-casestudy-analysis/aws/target
 /aws-casestudy-datagenerator/GeneratorProgram/.project
+/aws-casestudy-datagenerator/GeneratorProgram/target
