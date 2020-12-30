@@ -3,3 +3,5 @@
 /aws-casestudy-analysis/aws/target
 /aws-casestudy-datagenerator/GeneratorProgram/.project
 /aws-casestudy-datagenerator/GeneratorProgram/target
+/aws-casestudy-lambda/FraudDetection/.project
+/aws-casestudy-lambda/FraudDetection/target
